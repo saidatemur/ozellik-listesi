@@ -1,5 +1,5 @@
-Hareketli içerikler oluşturmak için animasyon ve GIF seçenekleri sunar.
-Temel video düzenleme araçlarıyla kısa videolar oluşturulabilir.
-Pro sürümü ile tek tıkla arka plan kaldırma özelliği sunar.
-PNG, JPG, PDF, MP4 gibi farklı formatlarda indirme imkanı sağlar.
-Farklı yazı tipleri ve metin efektleriyle tasarımları özelleştirme imkanı sunar.
+1.Hareketli içerikler oluşturmak için animasyon ve GIF seçenekleri sunar.
+2.Temel video düzenleme araçlarıyla kısa videolar oluşturulabilir.
+3.Pro sürümü ile tek tıkla arka plan kaldırma özelliği sunar.
+4.PNG, JPG, PDF, MP4 gibi farklı formatlarda indirme imkanı sağlar.
+5.Farklı yazı tipleri ve metin efektleriyle tasarımları özelleştirme imkanı sunar.
